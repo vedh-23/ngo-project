@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ngo-project/static/css/main.13a41d34.css",
+    "main.js": "/ngo-project/static/js/main.bef168ca.js",
+    "index.html": "/ngo-project/index.html",
+    "main.13a41d34.css.map": "/ngo-project/static/css/main.13a41d34.css.map",
+    "main.bef168ca.js.map": "/ngo-project/static/js/main.bef168ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13a41d34.css",
+    "static/js/main.bef168ca.js"
+  ]
+}
